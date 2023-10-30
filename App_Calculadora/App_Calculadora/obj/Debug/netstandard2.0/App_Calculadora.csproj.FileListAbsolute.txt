@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\bin\Debug\netstandard2.0\App_Calculadora.deps.json
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\bin\Debug\netstandard2.0\App_Calculadora.dll
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\bin\Debug\netstandard2.0\App_Calculadora.pdb
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\App_Calculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\App_Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\App_Calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\App_Calculadora.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\App_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\App_Calculadora.dll
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\refint\App_Calculadora.dll
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\App_Calculadora.pdb
+C:\Users\Usuario\Desktop\App_Calculadora\App_Calculadora\App_Calculadora\obj\Debug\netstandard2.0\ref\App_Calculadora.dll
